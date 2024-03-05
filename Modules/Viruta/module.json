@@ -1,0 +1,13 @@
+{
+    "name": "Viruta",
+    "alias": "viruta",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Viruta\\Providers\\VirutaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

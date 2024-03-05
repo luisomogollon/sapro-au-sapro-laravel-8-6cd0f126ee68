@@ -1,0 +1,13 @@
+{
+    "name": "Factura",
+    "alias": "factura",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Factura\\Providers\\FacturaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Inconformidad",
+    "alias": "inconformidad",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Inconformidad\\Providers\\InconformidadServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

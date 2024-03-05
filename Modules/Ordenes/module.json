@@ -1,0 +1,14 @@
+{
+    "name": "Ordenes",
+    "alias": "ordenes",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Ordenes\\Providers\\OrdenesServiceProvider",
+        "Modules\\Ordenes\\Providers\\EventServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

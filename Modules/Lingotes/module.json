@@ -1,0 +1,13 @@
+{
+    "name": "Lingotes",
+    "alias": "lingotes",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Lingotes\\Providers\\LingotesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

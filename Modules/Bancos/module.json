@@ -1,0 +1,13 @@
+{
+    "name": "Bancos",
+    "alias": "bancos",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Bancos\\Providers\\BancosServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

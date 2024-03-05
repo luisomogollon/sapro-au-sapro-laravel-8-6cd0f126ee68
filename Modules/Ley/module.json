@@ -1,0 +1,13 @@
+{
+    "name": "Ley",
+    "alias": "ley",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Ley\\Providers\\LeyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Bloque",
+    "alias": "bloque",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Bloque\\Providers\\BloqueServiceProvider"
+        ,"Modules\\Bloque\\Providers\\EventServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

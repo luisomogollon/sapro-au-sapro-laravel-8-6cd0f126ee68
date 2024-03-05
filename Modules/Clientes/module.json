@@ -1,0 +1,13 @@
+{
+    "name": "Clientes",
+    "alias": "clientes",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Clientes\\Providers\\ClientesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

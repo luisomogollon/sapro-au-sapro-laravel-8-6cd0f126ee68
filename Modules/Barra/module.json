@@ -1,0 +1,13 @@
+{
+    "name": "Barra",
+    "alias": "barra",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Barra\\Providers\\BarraServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

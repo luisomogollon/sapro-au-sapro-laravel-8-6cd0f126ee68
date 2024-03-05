@@ -1,0 +1,14 @@
+{
+    "Clientes": true,
+    "Ordenes": true,
+    "Factura": true,
+    "Barra": true,
+    "Bancos": true,
+    "Salidas": true,
+    "Lingotes": true,
+    "Login": true,
+    "Inconformidad": true,
+    "Viruta": true,
+    "Ley": true,
+    "Bloque": true
+}

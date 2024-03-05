@@ -1,0 +1,13 @@
+{
+    "name": "Salidas",
+    "alias": "salidas",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Salidas\\Providers\\SalidasServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
